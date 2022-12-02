@@ -3,7 +3,8 @@ swhobbit/swhobbit is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-I am Drew Derbyhire, the proprietor of Kendra Electronic Wonderworks, a small software house founded in 1989.
+I am Drew Derbyhire, a professional software developer. 
+On the side, I am the proprietor of Kendra Electronic Wonderworks, a small software house founded in 1989.
 After almost 18 years in Massachusetts, we moved to Kenmore, Washington (north of Seattle) in 2007.
 
 My [oldest Internet domain](https://domain.kew.com/) is propably older than yours. 
