@@ -18,6 +18,9 @@ I beat the rush to multiprocessor systems in the late 1980s, and I did massively
 
 I detoured into SRE under the guy who originated it. I've carried a pager enough there & elsewhere that my phone is grafted to me. 
 
+I did OSS (e-mail via dial-up [UUCP](https://en.wikipedia.org/wiki/UUCP)) before the term existed.
+The source is here on Github at [github.com/swhobbit/UUPC](https://github.com/swhobbit/UUPC).
+
 My [oldest Internet domain](https://domain.kew.com/) is propably older than yours. 
 
 I have used more OS families than most people have, including: 
@@ -34,10 +37,6 @@ I have used more OS families than most people have, including:
   - `AIX`
   - `SunOS` / `Solaris`
   - `BSD` / `FreeBSD` / `NetBSD`
-  - `Linux` (including `RedHat`, `Ubuntu`, `Raspberry Pi OS`, and others)
-
-I did OSS (e-mail via dial-up [UUCP](https://en.wikipedia.org/wiki/UUCP)) before the term existed.
-The source is here on Github at [github.com/swhobbit/UUPC](https://github.com/swhobbit/UUPC).  
+  - `Linux` (including `RedHat`, `Ubuntu`, `Raspberry Pi OS`, and others) 
 
 I'm on <a rel="me" href="https://hachyderm.io/@swhobbit">Mastodon</a>.
-
