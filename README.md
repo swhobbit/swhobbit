@@ -15,7 +15,8 @@ I started in operations, but have been mostly in development since my misspent y
 
 I worked on multiprocessor systems in the late 1980s, and did massively parallel systems in early 1990s. 
 
-I did OSS before the term existed.
+I did OSS (e-mail via dial-up [UUCP](https://en.wikipedia.org/wiki/UUCP)) before the term existed.
+The source is here on Github at [github.com/swhobbit/UUPC].(https://github.com/swhobbit/UUPC)  
 
 I detoured into SRE under the guy who originated it. I've carried a pager enough there & elsewhere that my phone is grafted to me. 
 
