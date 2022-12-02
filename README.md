@@ -23,7 +23,7 @@ I have used more OS families than most people have, including:
 - `Windows` from 3.0 to present day
 - `OS/2` from 1.2 to 4.52
 - `MacOS X` and its successors
-- `VMS` (barely …)
+- `VMS` (as in "I can identify a VMS login prompt 3 out of 5 times.")
 - Many, many flavors of `UNIX`:
   - Amdahl `UTS`
   - `SCO UNIX` / `Unixware` 
