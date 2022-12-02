@@ -45,4 +45,4 @@ My [oldest Internet domain](https://domain.kew.com/) is propably older than your
 I am the volunteer valet to an [IBM 4361 running VM/SP 5](https://wiki.livingcomputers.org/doku.php#ibm_4300_series), which can be remotely accessed. 
 (I neither work for nor speak for its owners.)
 
-I'm on <a rel="me" href="https://hachyderm.io/@swhobbit">Mastodon</a>.
+I'm on <a rel="nofollow me" href="https://hachyderm.io/@swhobbit">Mastodon</a>.
