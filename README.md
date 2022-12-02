@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 I'm just a [Software Sojourner](https://hobbit.kew.com) (hence my nom de network, which is an abbreviation of **software hobbit**).
 
-More formally, I am [Drew Derbyhire](https://hobbit.kew.com/2022/03/i-havent-heard-that-name-in-years.html), a professional software developer.
+More formally, I am [Drew Derbyshire](https://hobbit.kew.com/2022/03/i-havent-heard-that-name-in-years.html), a professional software developer.
  
 On the side, I am the proprietor of Kendra Electronic Wonderworks, a small software house founded in 1989.
 After almost 18 years in Massachusetts, we moved to Kenmore, Washington (north of Seattle) in 2007.
@@ -40,7 +40,7 @@ I did OSS (e-mail via dial-up [UUCP](https://en.wikipedia.org/wiki/UUCP)) before
 (It was also before dial-up `UUCP` convincingly lost the protocol war to `SMTP`/`POP3`/`IMAP4` over always on connections.)
 Its website is still at [UUPC.net](https://uupc.net), and the source is also here on Github at [github.com/swhobbit/UUPC](https://github.com/swhobbit/UUPC).
 
-My [oldest Internet domain](https://domain.kew.com/) is propably older than yours. 
+My [oldest Internet domain](https://domain.kew.com/) is probably older than yours. 
 
 I am the volunteer valet to an [IBM 4361 running VM/SP 5](https://wiki.livingcomputers.org/doku.php#ibm_4300_series), which can be remotely accessed. 
 (I neither work for nor speak for its owners.)
