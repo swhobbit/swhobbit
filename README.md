@@ -18,8 +18,8 @@ I did OSS before the term existed.
 
 I detoured into SRE under the guy who originated it. I've carried a pager enough there & elsewhere that my phone is grafted to me. 
 
-I've made money using `PL/I`, `IBM Assembler`, `C/C++`, `Java`, `Python`, `Perl`, & `JS`.  
-(Not that I often often the last two. I will only admit I know `Go` under duress, because I've never made money with it.)
+I've made money using `PL/I`, `IBM Assembler`, `C/C++`, `Java`, `Python`, `Perl`, & `JS`.
+(Not that I often admit the last two. I only admit I admit know `Go` under duress, because I've never used it professionally.)
 
 I have used more OS families than most have, including: 
 - Many generations of OS/360 and its children
