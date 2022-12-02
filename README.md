@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 I'm just a Software Sojourner (hence my nom de network, which is an abbreviation of **software hobbit**).
 
-More formally, I am Drew Derbyhire, a professional software developer.
+More formally, I am [Drew Derbyhire](https://hobbit.kew.com/2022/03/i-havent-heard-that-name-in-years.html), a professional software developer.
  
 On the side, I am the proprietor of Kendra Electronic Wonderworks, a small software house founded in 1989.
 After almost 18 years in Massachusetts, we moved to Kenmore, Washington (north of Seattle) in 2007.
