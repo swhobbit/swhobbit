@@ -20,7 +20,7 @@ I detoured into SRE under the guy who originated it. I've carried a pager enough
 
 I did OSS (e-mail via dial-up [UUCP](https://en.wikipedia.org/wiki/UUCP)) before the term existed.
 (It was also before dial-up `UUCP` convincingly lost the protocol war to `SMTP`/`POP3`/`IMAP4` over always on connections.)
-Its website is still at [UUPC.net](https://uupc.net), and the source is here on Github at [github.com/swhobbit/UUPC](https://github.com/swhobbit/UUPC).
+Its website is still at [UUPC.net](https://uupc.net), and the source is also here on Github at [github.com/swhobbit/UUPC](https://github.com/swhobbit/UUPC).
 
 My [oldest Internet domain](https://domain.kew.com/) is propably older than yours. 
 
