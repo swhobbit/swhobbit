@@ -21,8 +21,9 @@ I detoured into SRE under the guy who originated it. I've carried a pager enough
 I've made money using `PL/I`, `IBM Assembler`, `C/C++`, `Java`, `Python`, `Perl`, & `JS`.
 (Not that I often admit the last two. I only admit I admit know `Go` under duress, because I've never used it professionally.)
 
-I have used more OS families than most have, including: 
-- Many generations of OS/360 and its children
+I have used more OS families than most people have, including: 
+- Many generations of `OS/360` and its children
+- Many generations of `VM/370` and its children
 - `IBM DOS/VSE`
 - `CP/M`
 - `MS-DOS` from 1.x to the current `FreeDOS`
