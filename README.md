@@ -2,7 +2,7 @@
 swhobbit/swhobbit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I'm just a Software Sojourner (hence my nom de network, which is an abbreviation of **software hobbit**).
+I'm just a [Software Sojourner](https://hobbit.kew.com) (hence my nom de network, which is an abbreviation of **software hobbit**).
 
 More formally, I am [Drew Derbyhire](https://hobbit.kew.com/2022/03/i-havent-heard-that-name-in-years.html), a professional software developer.
  
