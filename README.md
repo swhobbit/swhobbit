@@ -35,3 +35,6 @@ I have used more OS families than most have, including:
   - `SunOS` / `Solaris`
   - `BSD` / `FreeBSD` / `NetBSD`
   - `Linux` (including `RedHat`, `Ubuntu`, `Raspberry Pi OS`, and others)
+
+I'm on <a rel="me" href="https://hachyderm.io/&#64;swhobbit">Mastodon</a>
+
