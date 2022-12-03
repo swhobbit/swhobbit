@@ -2,7 +2,7 @@
 swhobbit/swhobbit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I'm just a [Software Sojourner](https://hobbit.kew.com) (hence my nom de network, which is an abbreviation of **software hobbit**).
+I'm just a [Software Sojourner](https://hobbit.kew.com) (hence my nom de network, which is an abbreviation of **Software Hobbit**).
 
 More formally, I am [Drew Derbyshire](https://hobbit.kew.com/2022/03/i-havent-heard-that-name-in-years.html), a professional software developer.
  
@@ -12,7 +12,7 @@ After almost 18 years in Massachusetts, we moved to Kenmore, Washington (north o
 I started in operations, I but have been mostly in development since my misspent youth.
 
 I've made money using `PL/I`, `IBM Assembler`, `REXX`, `C/C++`, `Java`, `Python`, `Perl`, & `JS`.
-(Not that I often admit the last two. I only admit I admit know `Go` under duress, because I've never used it professionally.)
+(Not that I often admit the last two. I also only admit I admit know `Go` under duress, because I've never used it professionally.)
 
 I have used more OS families than most people have, including: 
 - Many generations of `IBM OS/360` and its successors
@@ -42,7 +42,7 @@ Its website is still at [UUPC.net](https://uupc.net), and the source is also her
 
 My [oldest Internet domain](https://domain.kew.com/) is probably older than yours. 
 
-I am the volunteer valet to an [IBM 4361 running VM/SP 5](https://wiki.livingcomputers.org/doku.php#ibm_4300_series), which can be remotely accessed. 
+I am the volunteer valet to an [IBM 4361 running VM/SP 5](https://wiki.livingcomputers.org/doku.php#ibm_4300_series), which can be remotely accessed for *free*. 
 (I neither work for nor speak for its owners.)
 
 I'm on <a rel="nofollow me" href="https://hachyderm.io/@swhobbit">Mastodon</a>.
