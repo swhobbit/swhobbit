@@ -18,6 +18,7 @@ I have used more OS families than most people have, including:
 - Many generations of `IBM OS/360` and its successors
 - Many generations of `IBM VM/370` and its successors
 - `IBM DOS/VSE`
+- `MUSIC` (*McGill University System for Interactive Computing*)
 - `CP/M`
 - `MS-DOS` from 1.x to the current `FreeDOS`
 - `Windows` from 3.0 to present day
