@@ -9,7 +9,7 @@ More formally, I am [Drew Derbyshire](https://hobbit.kew.com/2022/03/i-havent-he
 On the side, I am the proprietor of Kendra Electronic Wonderworks, a small software house founded in 1989.
 After almost 18 years in Massachusetts, we moved to Kenmore, Washington (north of Seattle) in 2007.
 
-I started in operations, I but have been mostly in development since my misspent youth.
+I started in operations, but I have been mostly in development since my misspent youth.
 
 I've made money using `PL/I`, `IBM Assembler`, `REXX`, `C/C++`, `Java`, `Python`, `Perl`, & `JS`.
 (Not that I often admit the last two. I also only admit I admit know `Go` under duress, because I've never used it professionally.)
