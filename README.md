@@ -22,7 +22,7 @@ I have used more OS families than most people have, including:
 - `Singer System Ten`
 - Digital Equipment Corporation `TOPS-10`
 - Digital Equipment Corporation `VMS`
-- TRS-80 Level I BASIC
+- TRS-80 `Level I BASIC`
 - `CP/M`
 - `MS-DOS` from 1.x to the current `FreeDOS`
 - `Windows` from 3.0 to present day
