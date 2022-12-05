@@ -15,16 +15,18 @@ I've made money using `PL/I`, `IBM Assembler`, `REXX`, `C/C++`, `Java`, `Python`
 (Not that I often admit the last two. I also only admit that I know `Go` under duress, because I've never used it professionally.)
 
 I have used more OS families than most people have, including: 
-- Many generations of `IBM OS/360` and its successors
-- Many generations of `IBM VM/370` and its successors
-- `IBM DOS/VSE`
+- Many generations of IBM `OS/360` and its successors
+- Many generations of IBM `VM/370` and its successors
+- IBM `DOS/VSE`
 - `MUSIC` (*McGill University System for Interactive Computing*)
+- `Singer System Ten`
+- Digital Equipment Corporation `TOPS-10`
+- Digital Equipment Corporation `VMS`
 - `CP/M`
 - `MS-DOS` from 1.x to the current `FreeDOS`
 - `Windows` from 3.0 to present day
 - `OS/2` from 1.2 to 4.52
 - `MacOS X` and its successors
-- `VMS` (as in "I can identify a VMS login prompt 3 out of 5 times.")
 - Many, many flavors of `UNIX`:
   - Amdahl `UTS`
   - `SCO UNIX` / `Unixware` 
