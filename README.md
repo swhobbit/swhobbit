@@ -11,8 +11,10 @@ After almost 18 years in Massachusetts, we moved to Kenmore, Washington (north o
 
 I started in operations, but I have been mostly in development since my misspent youth.
 
-I've made money using `PL/I`, `IBM Assembler`, `REXX`, `C/C++`, `Java`, `Python`, `Perl`, and `JS`.
-(Not that I often admit the last two. I also only admit that I know `Go` under duress, because I've never used it professionally.)
+I've made money in (chronological order, **not** level of expertise!)  using `COBOL`, `PL/I`, `IBM Assembler`, `REXX`, `C/C++`, `Java`, `Python`, `Perl`, and `JS`.
+(Not that I often admit the last two. I also only admit that I know `Go` under duress, because I've never used it professionally.)  
+
+When I next look for work, it will likely be in `C/C++`, `Java`, `Python`, or perhaps `Go`.
 
 I have used more OS families than most people have, including: 
 - Many generations of IBM `OS/360` and its successors
