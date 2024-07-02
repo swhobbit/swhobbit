@@ -65,5 +65,5 @@ Its website is still at [UUPC.net](https://uupc.net), and the source is also her
 
 My [oldest Internet domain](https://domain.kew.com/) is probably older than yours. 
 
-I am the volunteer valet to an [IBM 4361 running VM/SP 5]([https://wiki.sdf.org/doku.php#ibm_4300_series](https://wiki.sdf.org/doku.php?id=vintage_systems:vm_cms_survival_guide)), which can be remotely accessed for *free*. 
+I am the volunteer valet to an    [IBM 4361 running VM/SP 5](https://wiki.sdf.org/doku.php?id=vintage_systems:vm_cms_survival_guide), which can be remotely accessed for *free*. 
 (**Disclaimer**: I neither work for nor speak for its owners.)
