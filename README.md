@@ -11,17 +11,6 @@ More formally, I am [Drew Derbyshire](https://hobbit.kew.com/2022/03/i-havent-he
 On the side, I am the proprietor of Kendra Electronic Wonderworks, a small software house founded in 1989. It mostly does OSS.
 After almost 18 years in Massachusetts, we moved to Kenmore, Washington (north of Seattle) in 2007.
 
-## Where I've been
-
-I started in operations, but I have been mostly in development since my misspent youth.
-
-I've spend time:
-
-- 14 in IBM Mainframe operations & development 
-- 8 years in parallel computering for marketing and RBOC scale voice mail
-- 8 years in small business client/server
-- 8 years in SRE/development at an Internet search engine company  
-
 ## Computer Languages
 
 I've made money in (chronological order, **not** level of expertise!)  using `COBOL`, `PL/I`, `IBM Assembler`, `ROSCOE RPF`, `EXEC2`, `REXX`, `C/C++`, `Java`, `Bourne Shell`, `Python`, `Perl`, `JS`, and `FORTRAN IV`.
@@ -53,7 +42,16 @@ I have used more OS families than most people have, including:
   - `BSD` / `FreeBSD` / `NetBSD`
   - `Linux` (including `RedHat`, `Ubuntu`, `Raspberry Pi OS`, and others) 
 
-## Miscellaneous
+## Where I've been
+
+I started in operations, but I have been mostly in development since my misspent youth.
+
+I've done time in:
+
+- 14 years in IBM Mainframe operations & development 
+- 8 years in massively parallel computering for marketing and RBOC scale voice mail
+- 8 years in small business client/server
+- 8 years in SRE & development at an Internet search engine company ## Miscellaneous
 
 I beat the rush to multiprocessor systems in the late 1980s, and I did massively parallel systems in early 1990s. 
 
@@ -65,5 +63,5 @@ Its website is still at [UUPC.net](https://uupc.net), and the source is also her
 
 My [oldest Internet domain](https://domain.kew.com/) is probably older than yours. 
 
-I am the volunteer valet to an    [IBM 4361 running VM/SP 5](https://wiki.sdf.org/doku.php?id=vintage_systems:vm_cms_survival_guide), which can be remotely accessed for *free*. 
+I am the volunteer valet to an [emulated IBM mainframe running VM/SP 5](https://wiki.sdf.org/doku.php?id=vintage_systems:vm_cms_survival_guide), which can be remotely accessed for *free*. 
 (**Disclaimer**: I neither work for nor speak for its owners.)
