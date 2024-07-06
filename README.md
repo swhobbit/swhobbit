@@ -13,7 +13,7 @@ After almost 18 years in Massachusetts, we moved to Kenmore, Washington (north o
 
 ## Computer Languages
 
-I've made money in (chronological order, **not** level of expertise!)  using `COBOL`, `PL/I`, `IBM Assembler`, `ROSCOE RPF`, `EXEC2`, `REXX`, `C/C++`, `Java`, `Bourne Shell`, `Python`, `Perl`, `JS`, and `FORTRAN IV`.
+I've made money in (chronological order, **not** level of expertise!)  using `COBOL`, `PL/I`, `IBM Assembler`, `ROSCOE RPF`, `EXEC2`, `REXX`, `C/C++`, `Java`, `Bourne Shell` (and  its successors), `Python`, `Perl`, `JS`, and `FORTRAN IV`.
 (Not that I often admit the last two. I also only admit that I know `Go` under duress, because I've never used it professionally.)  
 
 When I next look for work, it will likely be in `C/C++`, `Java`, `Python`, or perhaps `Go`.
@@ -51,7 +51,9 @@ I've done time in:
 - 14 years in IBM Mainframe operations & development 
 - 8 years in massively parallel computering for marketing and RBOC scale voice mail
 - 8 years in small business client/server
-- 8 years in SRE & development at an Internet search engine company ## Miscellaneous
+- 8 years in SRE & development at an Internet search engine company 
+
+## Miscellaneous
 
 I beat the rush to multiprocessor systems in the late 1980s, and I did massively parallel systems in early 1990s. 
 
