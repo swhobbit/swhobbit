@@ -14,7 +14,7 @@ After almost 18 years in Massachusetts, we moved to Kenmore, Washington (north o
 ## Computer Languages
 
 I've made money in (chronological order, **not** level of expertise!)  using `COBOL`, `PL/I`, `IBM Assembler`, `ROSCOE RPF`, `EXEC2`, `REXX`, `C/C++`, `Java`, `Bourne Shell` (and  its successors), `Python`, `Perl`, `JS`, and `FORTRAN IV`.
-(Not that I often admit the last two. I also only admit that I know `Go` under duress, because I've never used it professionally.)  
+(Not that I often admit the last three. I also only admit that I know `Go` under duress, because I've never used it professionally.)  
 
 When I next look for work, it will likely be in `C/C++`, `Java`, `Python`, or perhaps `Go`.
 
