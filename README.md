@@ -49,7 +49,7 @@ I started in operations, but I have been mostly in development since my misspent
 I've done time in:
 
 - 14 years in IBM Mainframe operations & development 
-- 8 years in massively parallel computering for marketing and RBOC scale voice mail
+- 8 years in massively parallel computing for marketing and RBOC scale voice mail
 - 8 years in small business client/server
 - 8 years in SRE & development at an Internet search engine company 
 
