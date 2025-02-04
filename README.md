@@ -31,9 +31,9 @@ I have used more OS families than most people have, including:
 - TRS-80 `Level I BASIC`
 - `CP/M`
 - `MS-DOS` from 1.x to the current `FreeDOS`
-- `Windows` from 3.0 to present day
-- `OS/2` from 1.2 to 4.52
-- `MacOS X` and its successors
+- Microsoft `Windows` from 3.0 to present day
+- IBM `OS/2` from 1.2 to 4.52
+- Apple `MacOS X` and its successors
 - Many, many flavors of `UNIX`:
   - Amdahl `UTS`
   - `SCO UNIX` / `Unixware` 
