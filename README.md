@@ -30,7 +30,7 @@ I have used more OS families than most people have, including:
 - Digital Equipment Corporation `VMS`
 - TRS-80 `Level I BASIC`
 - `CP/M`
-- `MS-DOS` from 1.x to the current `FreeDOS`
+- `MS-DOS` from `Z-DOS 1.25` to the current `FreeDOS`
 - Microsoft `Windows` from 3.0 to present day
 - IBM `OS/2` from 1.2 to 4.52
 - Apple `MacOS X` and its successors
@@ -59,7 +59,7 @@ I beat the rush to multiprocessor systems in the late 1980s, and I did massively
 
 I detoured into SRE under the guy who originated it. I've carried a pager enough there and elsewhere that my phone is grafted to me. 
 
-I did OSS (e-mail via dial-up [UUCP](https://en.wikipedia.org/wiki/UUCP)) before the term existed.
+I did [OSS](https://en.wikipedia.org/wiki/Open-source_software) (e-mail via dial-up [UUCP](https://en.wikipedia.org/wiki/UUCP)) before the term existed.
 (It was also before dial-up `UUCP` convincingly lost the protocol war to `SMTP`/`POP3`/`IMAP4` over always on connections.)
 Its website is still at [UUPC.net](https://uupc.net), and the source is also here on Github at [github.com/swhobbit/UUPC](https://github.com/swhobbit/UUPC).
 
